@@ -2,10 +2,6 @@
 
 Welcome to the Trading App prototype! This application provides users with real-time data for various company stocks, allowing them to make informed decisions on buying and selling. If the stock price meets the user's criteria, the app will send a signal to buy or sell stocks according to the user's specified limit. Additionally, users can obtain the cost of the stock based on the current price when a signal is sent.
 
-[Documentation on building Trading App in C++](https://iq.opengenus.org/trading-application-in-cpp/) step by step. This tool has been developed by OG intern Vidhi Srivastava.
-
-![Screenshot](./output.png)
-
 ## Table of Contents
 - [Purpose of Implementation](#Purpose-of-Implementation)
 - [Project Implementation](#Project-Implementation)
@@ -91,15 +87,4 @@ Before running the Trading App, make sure you have the following prerequisites i
 - **JsonCpp library:** Install the JsonCpp library for JSON parsing and manipulation in C++.
 
 - **API Key:** Sign up at Twelve Data to obtain your own API key. Place your API key in the `config.json` file.
-
-## Authors 👤
-
-### Vidhi Srivastava
-
-- [GitHub](https://github.com/Vidhi0229)
-- [LinkedIn](https://www.linkedin.com/in/vidhisrivastava01/)
-
-## Show Your Support ⭐️⭐️
-
-If you find this project helpful or interesting, please consider giving it a star!
 
