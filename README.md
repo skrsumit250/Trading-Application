@@ -5,12 +5,8 @@ Welcome to the Trading App prototype! This application provides users with real-
 ## Table of Contents
 - [Purpose of Implementation](#Purpose-of-Implementation)
 - [Project Implementation](#Project-Implementation)
-   - [Project Structure](#Project-Structure)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-- [Authors](#authors)
-- [Show Your Support](#show-your-support)
 
 ## Purpose of Implementation
 The purpose of implementing the Trading App is to offer users a powerful tool that facilitates real-time stock trading decisions. This application is designed to empower users with the following key functionalities:
